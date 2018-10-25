@@ -1,0 +1,14 @@
+Gender Change mod (v0.14)
+
+- I am not affiliated with Dan Salvato LLC
+- If you notice a mistake I made, please email me at
+  radiosparksart@gmail.com
+
+
+INSTALL:
+- copy the files in this folder into the 'game' folder in your
+  doki doki literature source folder.
+
+CHANGE-LOG:
+- first version, tried to change every instance of pronouns
+  might have missed something.
